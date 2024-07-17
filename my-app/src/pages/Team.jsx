@@ -10,7 +10,7 @@ const Team = () => {
         fetch("https://ajayhelp001.github.io/product-api/Api.json")
         .then(response => response.json())
         .then(data => setuserInfo(data))
-        .catch(error => )
+        // .catch(error => )
     })
   return (
     <>
