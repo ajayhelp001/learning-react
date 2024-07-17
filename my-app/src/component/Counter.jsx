@@ -14,9 +14,9 @@ const Counter = () => {
 
     return (
         <>
-        <h1>Counter Value {counts}</h1>
-        <button onClick={addValue}>Add Value</button>
-        <button onClick={removeVale}>Remove Value</button>
+        <h1 className='text-lg font-bold text-blue-950'>Counter Value {counts}</h1>
+        <button className='rounded-lg text-sm font-semibold py-3 px-4 bg-slate-900 text-white hover:bg-slate-700' onClick={addValue}>Add Value</button>
+        <button className='rounded-lg text-sm font-semibold py-3 px-4 bg-slate-900 text-white hover:bg-slate-800' onClick={removeVale}>Remove Value</button>
         </>
     )
 }

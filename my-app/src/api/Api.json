@@ -1,0 +1,50 @@
+[
+    {
+        "productImg": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGh1bWFufGVufDB8fDB8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60",
+        "username": "Jenifer Lopez",
+        "post": "Founder and CEO, DevUI",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "productImg": "https://wajid.hipl-staging5.com/ecommerce/assets/images/choose-product-card-img3.png",
+        "username": "Jhone1",
+        "post": "CEO",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "productImg": "https://wajid.hipl-staging5.com/ecommerce/assets/images/choose-product-card-img1.png",
+        "username": "Jhone2",
+        "post": "CEO",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "productImg": "https://wajid.hipl-staging5.com/ecommerce/assets/images/choose-product-card-img2.png",
+        "username": "Jhone3",
+        "post": "CEO",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "productImg": "https://wajid.hipl-staging5.com/ecommerce/assets/images/blogImg4.jpg",
+        "username": "Jenifer Lopez",
+        "post": "Founder and CEO, DevUI",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "productImg": "https://wajid.hipl-staging5.com/ecommerce/assets/images/blogImg1.jpg",
+        "username": "Jhone1",
+        "post": "CEO",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "productImg": "https://wajid.hipl-staging5.com/ecommerce/assets/images/blogImg2.jpg",
+        "username": "Jhone2",
+        "post": "CEO",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "productImg": "https://wajid.hipl-staging5.com/ecommerce/assets/images/blogImg3.jpg",
+        "username": "Jhone3",
+        "post": "CEO",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    }
+]
